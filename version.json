@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "latest_version": "1.2.1",
-  "release_notes": "Weighbridge Standard v1.2.1. Improved automatic update version detection, SHA256 verification, rollback protection, pending-ticket printing, incomplete weight display, and overall ticket reliability.",
-  "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Standard-Releases/releases/download/v1.2.1/WeighbridgeStandard_v1.2.1_Setup.exe",
-  "sha256": "C684AE8CE3DF6736122D3AF5F5C3E782E1519ACAD518DF600FE49C48302385C5"
+  "version": "1.2.2",
+  "latest_version": "1.2.2",
+  "release_notes": "Weighbridge Standard v1.2.2. Centralized scale logging, improved automatic update version detection, SHA256 verification, rollback protection, pending-ticket printing, incomplete weight handling, and improved ticket and update reliability.",
+  "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Standard-Releases/releases/download/v1.2.2/WeighbridgeStandard_v1.2.2_Setup.exe",
+  "sha256": "2FA03E32563488F3DEB56362D60CD871FB8163275459327DCAB1B87DA3D8ABCC"
 }
