@@ -1,5 +1,7 @@
 {
-  "version": "1.0.2",
-  "release_notes": "Update release asset v1.0.2 with layout & bug fixes",
-  "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Standard-Releases/releases/download/v1.0.2/WeighbridgeStandard_v1.0.2_Setup.exe"
+  "version": "1.2.1",
+  "latest_version": "1.2.1",
+  "release_notes": "Weighbridge Standard v1.2.1. Improved automatic update version detection, SHA256 verification, rollback protection, pending-ticket printing, incomplete weight display, and overall ticket reliability.",
+  "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Standard-Releases/releases/download/v1.2.1/WeighbridgeStandard_v1.2.1_Setup.exe",
+  "sha256": "255F4D4CB3CB7F3F8D94F42DD6C3254EFDA8BE01A132D4A95D855DEC2C7BDB31"
 }
